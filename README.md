@@ -6,7 +6,7 @@
 
 <h3>🔗 Acesse o site:</h3>
 <ul>
-  <li></li>
+  <li>https://kennyangit.github.io/landingPage/</li>
 </ul>
 
 <h2>🏗️ Tecnologias Utilizadas</h2>
